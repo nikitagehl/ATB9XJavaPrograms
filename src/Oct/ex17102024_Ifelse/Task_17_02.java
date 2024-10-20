@@ -12,8 +12,12 @@ public static void main(String[] args) {
     int s2= sc.nextInt();
 //    System.out.println("enter the 3rd side of triangle");
     int s3=sc.nextInt();
+    if(s1<=0 || s2<=0 ||s3<=0)
+    {
+        System.out.println("Invalid data, please enter the positive sides");
+    }
 //    equilateral (all sides are equal)
-    if(s1==s2 && s1==s3){
+    else if(s1==s2 && s1==s3){
         System.out.println("This is an equilateral triangle");
     } else if (s1==s2 || s1==s3 ||(s2==s3)) {
         System.out.println("This is an isosceles Triangle");
@@ -21,5 +25,6 @@ public static void main(String[] args) {
     else{
         System.out.println("scalene Triangle");
     }
+    sc.close();
 }
 }

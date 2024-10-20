@@ -30,6 +30,10 @@ public class if_else_interview {
             char ch= 'D';
             System.out.printf("your grade is %c",ch);
         }
+        else if (result >=60 && result <= 69) {
+            System.out.println("lol !!!, are you god?");
+            char ch= 'O';
+            System.out.printf("your grade is %c",ch);}
         else {
             char ch= 'F';
             System.out.printf("your grade is %c",ch);
