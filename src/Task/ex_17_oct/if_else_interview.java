@@ -1,6 +1,5 @@
-package Oct.ex17102024_Ifelse;
+package Task.ex_17_oct;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class if_else_interview {

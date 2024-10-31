@@ -1,4 +1,4 @@
-package Oct.ex17102024_Ifelse;
+package Task.ex_17_oct;
 
 import java.util.Scanner;
 
