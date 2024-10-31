@@ -1,4 +1,4 @@
-package Oct.ex_21102024_for_loop;
+package Task.ex_22_oct;
 
 public class Task_002 {
     public static void main(String[] args) {
