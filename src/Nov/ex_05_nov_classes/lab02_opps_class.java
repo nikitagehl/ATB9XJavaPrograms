@@ -1,4 +1,4 @@
-package Nov.ex_05_nov;
+package Nov.ex_05_nov_classes;
 
 public class lab02_opps_class {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Nov.ex_06_nov.Constructor_overloading;
+package Nov.ex_06_nov_constructor.Constructor_overloading;
 
 public class students {
 

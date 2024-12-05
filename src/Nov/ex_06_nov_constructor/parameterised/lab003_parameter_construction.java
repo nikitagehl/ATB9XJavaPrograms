@@ -1,4 +1,4 @@
-package Nov.ex_06_nov.parameterised;
+package Nov.ex_06_nov_constructor.parameterised;
 
 import java.util.Scanner;
 

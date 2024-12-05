@@ -1,4 +1,4 @@
-package Nov.ex_06_nov;
+package Nov.ex_06_nov_constructor;
 
 public class lab002_constructor_default {
 

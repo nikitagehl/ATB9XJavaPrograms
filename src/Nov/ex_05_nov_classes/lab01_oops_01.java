@@ -1,4 +1,4 @@
-package Nov.ex_05_nov;
+package Nov.ex_05_nov_classes;
 
 public class lab01_oops_01 {
      // how to create a class
