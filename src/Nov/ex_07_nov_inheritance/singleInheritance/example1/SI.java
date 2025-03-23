@@ -9,5 +9,6 @@ public class SI {
         testcase1 tc2= new testcase1();
         tc.login(1,"jwt");
         tc2.tc();
+//        tc2.token;
     }
 }
